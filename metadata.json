@@ -1,0 +1,6 @@
+{
+  "name": "Vinisha Pharma",
+  "description": "Vinisha Pharma - Premium Pharmacy Retail Management System featuring dual-screen synchronized POS, intelligent inventory, FEFO batch tracking, and AI operations assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
